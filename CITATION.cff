@@ -1,12 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
+type:data
 authors:
 - family-names: "Guggari"
   given-names: "Shankru"
 - family-names: "Kulkarni"
   given-names: "Uday"
 - family-names: "Kulkarni"
-  given-names: "Satwik
+  given-names: "Satwik"
 - family-names: "Hallad"
   given-names: "Sitanshu"
 - family-names: "Masur"
