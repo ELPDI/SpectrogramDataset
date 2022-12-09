@@ -17,4 +17,23 @@ title: "SpectrogramDataset"
 version: 1.0.0
 date-released: 2022-12-09
 url: "https://github.com/ELPDI/SpectrogramDataset"
-  
+preferred-citation:
+  type: article
+  message: "If you use this dataset, please cite it as below."
+  authors:
+  - family-names: "Guggari"
+    given-names: "Shankru"
+  - family-names: "Kulkarni"
+    given-names: "Uday"
+  - family-names: "Kulkarni"
+    given-names: "Satwik"
+  - family-names: "Hallad"
+    given-names: "Sitanshu"
+  - family-names: "Masur"
+    given-names: "Abhishek"
+  - family-names: "Bhujannavar"
+    given-names: "Tanvi"
+  title: "SpectrogramDataset"
+  version: 1.0.0
+  date-released: 2022-12-09
+  url: "https://github.com/ELPDI/SpectrogramDataset"
