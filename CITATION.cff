@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Sitanshu Hallad"
+- family-names: "Satwik Kulkarni"
+title: "SpectrogramDataset"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-09
+url: "https://github.com/ELPDI/SpectrogramDataset"
+preferred-citation:
+
