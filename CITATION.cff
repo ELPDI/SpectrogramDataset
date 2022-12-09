@@ -18,7 +18,7 @@ version: 1.0.0
 date-released: 2022-12-09
 url: "https://github.com/ELPDI/SpectrogramDataset"
 preferred-citation:
-  type: article
+  type: data
   message: "If you use this dataset, please cite it as below."
   authors:
   - family-names: "Guggari"
