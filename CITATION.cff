@@ -1,9 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
--give-names: "Sitanshu Hallad"
-- family-names: "Sitanshu Hallad"
-- family-names: "Satwik Kulkarni"
+-given-names: "Shankru"
+ family-names: "Guggari"
+-given-names: "Uday
+ family-names: "Kulkarni"
+ -given-names: "Satwik"
+ family-names: "Kulkari"
+ -given-names: "Sitanshu"
+ family-names: "Hallad"
+ -given-names: "Abhishek"
+ family-names: "Masur"
+ -given-names: "Tanvi"
+ family-names: "Bhujannavar"
 title: "SpectrogramDataset"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
